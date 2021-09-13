@@ -1,1 +1,2 @@
-https://github.com/GazeOfAether
+[GitHub](http://github.com/GazeOfAether)
+

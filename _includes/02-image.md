@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Mars](https://lasp.colorado.edu/home/wp-content/uploads/2010/10/odyssey.jpg

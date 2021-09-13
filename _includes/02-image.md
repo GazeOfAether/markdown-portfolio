@@ -1,1 +1,1 @@
-![Image of Mars](https://lasp.colorado.edu/home/wp-content/uploads/2010/10/odyssey.jpg
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
